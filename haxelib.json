@@ -2,7 +2,6 @@
   "name": "easyxdm.hx",
   "url": "https://github.com/francescoagati/easyxdm.hx",
   "license": "MIT",
-  "classPath": ".",
   "tags": ["easyxdm", "rpc"],
   "description": "external for easyxdm",
   "releasenote": "first release",
