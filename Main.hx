@@ -42,7 +42,7 @@ class Main {
     });
 
     var rpc_remote = rpc.toRemote();
-    
+    rpc_remote.ping("s",function(response) {});
 
   }
 }
